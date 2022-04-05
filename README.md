@@ -8,7 +8,7 @@
 * [Contato](#email-contato)
 
 ## Sobre a aplicação
-Aplicação desenvolvida em __React__ que inclui usuários acessando uma [API GraphQL](https://github.com/luiizsilverio/graphql-frontend).<br />
+Aplicação desenvolvida em __React__ que inclui usuários acessando uma [API GraphQL](https://github.com/luiizsilverio/graphql-backend).<br />
 Não tem preocupação com estilização, é apenas um estudo de GraphQL, desenvolvido durante o [Fundamentos do GraphQL na Prática](https://www.youtube.com/watch?v=6SZOPKs9SUg), com o professor Diego Fernandes.
 <br />
 
